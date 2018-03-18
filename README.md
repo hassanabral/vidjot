@@ -10,6 +10,6 @@ Run `npm start` for a dev server. Navigate to `http://localhost:5000/`. The app 
 
 If you are visiting the [site](https://young-castle-47539.herokuapp.com/), use the following "test" credential to log in: 
 
-Username: test
+Username: test@gmail.com
 Password: testpass
 
